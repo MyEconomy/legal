@@ -1,1 +1,1 @@
-
+<h1>TERMS OF SERVICE</h1>
