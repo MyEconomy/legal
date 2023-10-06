@@ -1,6 +1,6 @@
 <h1>MyEconomy - NUTZUNGSBEDINGUNGEN</h1>
 
-Datum des Inkrafttretens:`October 6th, 2023`<br>
+Datum des Inkrafttretens: `October 6th, 2023`<br>
 Zuletzt aktualisiert:  `October 6th, 2023`
 
 Wir bitten Sie, die Nutzungsbedingungen sorgfältig zu lesen, bevor Sie unsere Services nutzen.
