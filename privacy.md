@@ -42,7 +42,7 @@ Vom Discord-Server werden folgende Informationen:
     <li><b>In-Game Shop:</b> Es werden Daten zum server-internen Shop gespeichert, um dessen Funktionalität zu gewährleisten.</li>
     <li><b>Spezifische Kanal-ID:</b> Es steht ein freiwilliger Service zur Verfügung, welcher die Nachrichten von a) statt an den Inhaber in einen bestimmten Chat senden kann. Für die Gewährleistung des Services muss die ID des Kanals gespeichert werden.</li>
   </ul>
-</ul>ul>
+</ul>
 
 <h4>Drittanbieter</h4>
 Wir speichern alle Daten lokal auf von uns gewarteten Geräten und senden keine der gesammelten Daten an Drittanbieter.
