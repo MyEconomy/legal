@@ -1,4 +1,4 @@
-<h1>MyEconomy - NUTZUNGSBEDINGUNGEN</h1>
+<h2>MyEconomy - NUTZUNGSBEDINGUNGEN</h2>
 
 Datum des Inkrafttretens: `October 6th, 2023`<br>
 Zuletzt aktualisiert:  `October 6th, 2023`
