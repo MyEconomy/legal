@@ -12,7 +12,7 @@ Umfangreiche Details zu allen gesammelten Daten finden Sie im jeweiligen Abschni
 <br>Sie sind verantwortlich für alle Daten die Sie durch unseren Services erhalten, veröffentlichen oder teilen.
 
 <h3>Detailierte Informationen zu gesammelten Daten</h3>
-<h4>Nutzerdaten</h4>
+<h4>1. Nutzerdaten</h4>
 Vom Nutzer werden folgende Informationen:
 <ul>
   <li>a) Erhoben:</li>
@@ -28,7 +28,7 @@ Vom Nutzer werden folgende Informationen:
   </ul>
 </ul>
   
-<h4>Serverdaten</h4>
+<h4>2. Serverdaten</h4>
 Vom Discord-Server werden folgende Informationen:
 <ul>
   <li>a) Erhoben:</li>
@@ -44,5 +44,12 @@ Vom Discord-Server werden folgende Informationen:
   </ul>
 </ul>
 
-<h4>Drittanbieter</h4>
+<h3>Umgang mit den gesammelten Daten</h3>
+<h4>1. Speicherung</h4>
+Alle von uns gesammelten Daten werden von uns auf einer lokalen Datenbank gespeichert und nur autorisierte Personen haben Zugriff auf diese. Alle Daten werden nur zur Gewährleistung für eine einwandfreie Funktionalität unseres Bots gespeichert und werden deshalb streng vertraulich behandelt. Mehr dazu in Punkt 3 "Drittanbieter". Es wird keine Haftung für das Entwenden von Daten durch unautorisierte Eingriffe übernommen.
+
+<h4>2. Löschung</h4>
+Alle von uns gesammelten Daten werden ohne Frist gespeichert. Sie können allerdings das vollständige und unwiderrufliche Löschen ihrer Informationen beantragen, indem Sie eine E-Mail an <a href="mailto:overlord.vader.mail@gmail.com">overlord.vader.mail@gmail.com</a> senden, welche Ihre Discord-ID enthält.
+
+<h4>3. Drittanbieter</h4>
 Wir speichern alle Daten lokal auf von uns gewarteten Geräten und senden keine der gesammelten Daten an Drittanbieter.
